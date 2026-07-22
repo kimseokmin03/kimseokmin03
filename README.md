@@ -12,7 +12,7 @@
 | **Dongji** | 공공데이터 기반 운동 매칭 플랫폼 | Flutter, Node.js | [Repo](https://github.com/kimseokmin03/Dongji) |
 | **Data Analysis** | 금리·자산 데이터 분석 | Python, pandas, ML | [Repo](https://github.com/kimseokmin03/dataAnalysis) |
 | **Oud** | LLM 협업 도우미 (진행 중, Spring Boot / FastAPI 담당) | React, Spring Boot, FastAPI | [Repo](https://github.com/kyjhcw-rgb/llm-collaboration-helper) |
-| **CrossMedia** | Cross Media Platform | Python | [Repo](https://github.com/kimseokmin03/crossmedia) |
+| **CrossMedia** | 웹툰·영화·음악 크로스 추천 | Python, FastAPI, PostgreSQL | [Repo](https://github.com/kimseokmin03/crossmedia) |
 | **알고리즘** | C++ 알고리즘 연습 | C++ | [Repo](https://github.com/kimseokmin03/algorithm) |
 
 ---
@@ -20,7 +20,7 @@
 ## Stack
 
 **Client** — Flutter  
-**Server** — Node.js, Express, PostgreSQL, FastApi, SpringBoot
+**Server** — Node.js, Express, PostgreSQL, FastAPI, Spring Boot  
 **Infra** — Docker Compose, Nginx  
 **Data** — Python
 
